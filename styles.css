@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+    font-size: 34pt;
+    font-family: "Courier New", monospace;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+}
